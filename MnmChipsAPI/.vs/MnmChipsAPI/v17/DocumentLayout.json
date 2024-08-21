@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Contra\\sistemas\\Desarrollos\\.net\\chips\\MnmChipsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC4A054-1232-4FB2-BC8F-07C0F634D368}|MnmChipsAPI.csproj|c:\\contra\\sistemas\\desarrollos\\.net\\chips\\mnmchipsapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC4A054-1232-4FB2-BC8F-07C0F634D368}|MnmChipsAPI.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC4A054-1232-4FB2-BC8F-07C0F634D368}|MnmChipsAPI.csproj|c:\\contra\\sistemas\\desarrollos\\.net\\chips\\mnmchipsapi\\endpoints\\prestadoresendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC4A054-1232-4FB2-BC8F-07C0F634D368}|MnmChipsAPI.csproj|solutionrelative:endpoints\\prestadoresendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC4A054-1232-4FB2-BC8F-07C0F634D368}|MnmChipsAPI.csproj|c:\\contra\\sistemas\\desarrollos\\.net\\chips\\mnmchipsapi\\repositorios\\irepositorioprestadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC4A054-1232-4FB2-BC8F-07C0F634D368}|MnmChipsAPI.csproj|solutionrelative:repositorios\\irepositorioprestadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC4A054-1232-4FB2-BC8F-07C0F634D368}|MnmChipsAPI.csproj|c:\\contra\\sistemas\\desarrollos\\.net\\chips\\mnmchipsapi\\repositorios\\repositorioprestadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC4A054-1232-4FB2-BC8F-07C0F634D368}|MnmChipsAPI.csproj|solutionrelative:repositorios\\repositorioprestadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\.net\\chips\\MnmChipsAPI\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDBContext.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\.net\\chips\\MnmChipsAPI\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:15:44.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositorioPrestadores.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\.net\\chips\\MnmChipsAPI\\Repositorios\\RepositorioPrestadores.cs",
+              "RelativeDocumentMoniker": "Repositorios\\RepositorioPrestadores.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\.net\\chips\\MnmChipsAPI\\Repositorios\\RepositorioPrestadores.cs",
+              "RelativeToolTip": "Repositorios\\RepositorioPrestadores.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA2wBYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:14:44.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositorioPrestadores.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\.net\\chips\\MnmChipsAPI\\Repositorios\\IRepositorioPrestadores.cs",
+              "RelativeDocumentMoniker": "Repositorios\\IRepositorioPrestadores.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\.net\\chips\\MnmChipsAPI\\Repositorios\\IRepositorioPrestadores.cs",
+              "RelativeToolTip": "Repositorios\\IRepositorioPrestadores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:13:16.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestadoresEndpoints.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\.net\\chips\\MnmChipsAPI\\Endpoints\\PrestadoresEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\PrestadoresEndpoints.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\.net\\chips\\MnmChipsAPI\\Endpoints\\PrestadoresEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\PrestadoresEndpoints.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:06:09.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
